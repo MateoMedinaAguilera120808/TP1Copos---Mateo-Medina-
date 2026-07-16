@@ -1,0 +1,7 @@
+C:\Users\Mateo\source\repos\TP1-MateoMedina\ActividadCopos\bin\Debug\ActividadCopos.exe.config
+C:\Users\Mateo\source\repos\TP1-MateoMedina\ActividadCopos\bin\Debug\ActividadCopos.exe
+C:\Users\Mateo\source\repos\TP1-MateoMedina\ActividadCopos\bin\Debug\ActividadCopos.pdb
+C:\Users\Mateo\source\repos\TP1-MateoMedina\ActividadCopos\obj\Debug\ActividadCopos.csproj.AssemblyReference.cache
+C:\Users\Mateo\source\repos\TP1-MateoMedina\ActividadCopos\obj\Debug\ActividadCopos.csproj.CoreCompileInputs.cache
+C:\Users\Mateo\source\repos\TP1-MateoMedina\ActividadCopos\obj\Debug\ActividadCopos.exe
+C:\Users\Mateo\source\repos\TP1-MateoMedina\ActividadCopos\obj\Debug\ActividadCopos.pdb
