@@ -202,6 +202,7 @@ namespace ActividadCopos
 
                     
                 }
+                //con esto movemos el cursor a la posicion 0,0 para que se dibuje la tabla en la misma posicion y no se vaya hacia abajo
                 Console.SetCursorPosition(0, 0);
 
                 for (int i = 0; i < config.Filas; i++)
